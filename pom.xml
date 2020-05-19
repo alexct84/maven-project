@@ -20,7 +20,6 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
